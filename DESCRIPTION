@@ -1,0 +1,14 @@
+  
+Package: testPkg
+Type: Package
+Title: magic_matrix
+Version: 1.0
+Date: 2020-09-09
+Author: CHEN
+Maintainer: CHEN <Olivandtempest@gmail.com>
+Description: nothing.
+License: GPL-3
+LazyData: true
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+RoxygenNote: 7.1.1
