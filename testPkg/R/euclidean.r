@@ -1,8 +1,9 @@
 #' @title euclidean function
 #' 
-#' @describeIn  return the greatest divisor of a and b. see\url{http://https://en.wikipedia.org/wiki/Euclidean_algorithm} for more details.
+#' @describeIn  return the greatest divisor of a and b. 
+#' @references see\url{http://https://en.wikipedia.org/wiki/Euclidean_algorithm}.
 #' 
-#' @details nothing
+#' @details nothing for more details
 #' 
 #' @param a  A number.
 #' @param b  A number.

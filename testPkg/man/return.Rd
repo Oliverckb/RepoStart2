@@ -18,14 +18,17 @@ the greatest divisor of \code{a} and \code{b}
 euclidean function
 }
 \details{
-nothing
+nothing for more details
 }
 \section{Functions}{
 \itemize{
-\item \code{euclidean}: the greatest divisor of a and b. see\url{http://https://en.wikipedia.org/wiki/Euclidean_algorithm} for more details.
+\item \code{euclidean}: the greatest divisor of a and b.
 }}
 
 \examples{
 euclidean(10,20)
 euclidean(112,4522)
+}
+\references{
+see\url{http://https://en.wikipedia.org/wiki/Euclidean_algorithm}.
 }
