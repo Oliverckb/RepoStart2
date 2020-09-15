@@ -2,17 +2,10 @@
 Package: testPkg
 Type: Package
 Title: selfdefine function
-=======
-  
-Package: testPkg
-Type: Package
-Title: magic_matrix
->>>>>>> 1a0905a0c7d52d74e87f5c44b2376f9c140047f7
 Version: 1.0
 Date: 2020-09-09
 Author: CHEN
 Maintainer: CHEN <Olivandtempest@gmail.com>
-<<<<<<< HEAD
 Description: nothing
 License: GPL-2
 Depends: R (>= 2.10)
@@ -20,11 +13,4 @@ Encoding: UTF-8
 RoxygenNote: 7.1.1
 Suggests: 
     testthat
-=======
-Description: nothing.
-License: GPL-3
-LazyData: true
-Depends: R (>= 3.5.0)
-Encoding: UTF-8
-RoxygenNote: 7.1.1
->>>>>>> 1a0905a0c7d52d74e87f5c44b2376f9c140047f7
+
